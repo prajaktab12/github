@@ -11,8 +11,7 @@ Action()
 		"Referer=https://blazedemo.com/", 
 		"Snapshot=t3.inf", 
 		"Mode=HTML", 
-		/*EXTRARES, 
-		"Url={var_Protocol}://rep.checkpoint.com/rep-auth/service/v1.0/request", "Referer=", ENDITEM, */
+
 		LAST);
 
 
