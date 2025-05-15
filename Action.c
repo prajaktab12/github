@@ -13,11 +13,9 @@ Action()
 		/*EXTRARES, 
 		"Url={var_Protocol}://rep.checkpoint.com/rep-auth/service/v1.0/request", "Referer=", ENDITEM, */
 		LAST);
+		
+		
 
-
-		
-		
-		
 
 	lr_end_transaction("DPSOnly_TR01_Launch_Page",LR_AUTO);
 	
